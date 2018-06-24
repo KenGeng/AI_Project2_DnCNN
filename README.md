@@ -16,6 +16,6 @@ test example: python main.py --channel 1 --input B --percent 0.8 --train 0
 update when I finish other tasks...
 
 ## Reference
-[1] Zhang, Kai, et al. "Beyond a gaussian denoiser: Residual learning of deep cnn for image denoising." IEEE Transactions on Image Processing 26.7 (2017): 3142-3155.
-[2] https://github.com/crisb-DUT/DnCNN-tensorflow
-[3] https://github.com/CKCZZJ/ImgRecovery/
+1. Zhang, Kai, et al. "Beyond a gaussian denoiser: Residual learning of deep cnn for image denoising." IEEE Transactions on Image Processing 26.7 (2017): 3142-3155.
+2. https://github.com/crisb-DUT/DnCNN-tensorflow
+3. https://github.com/CKCZZJ/ImgRecovery/
