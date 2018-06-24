@@ -1,0 +1,2 @@
+model_checkpoint_path: "DnCNN-tensorflow30-30"
+all_model_checkpoint_paths: "DnCNN-tensorflow30-30"
